@@ -1,7 +1,49 @@
-## Hi there 👋
+# Hi, I'm Gustavo Avide! 👋
+
+I am a passionate Software Engineer, that likes a lot taking products from scratch, and for that, it means creating maintainable products. 
+If we talk more, I always like to handle data and do some nice structure either to send to the client or send to the frontend,
+But my LOVE ❤️, always lies in creating and showing the architecture 🤓.
+
+![Gustavo's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently a Full Stack Developer that went to many areas to get better at programming, you can name it: Cars, Real State, HR, Accountability, Payments, Sales... Yes, I'm there using my Software Engineer skills to enhance and maintain the systems.
+- 📝 I have a blog, that I share some tips about interviews, concepts of programming, novelty on the area and more, you can check it here: 
+- 🌐 Proud member of CodeWars, where I dedicate my time getting more Kyu and getting better at logic sharing cleverness and best practices.
+
+## My Articles
+- Loading...
+
+
+## Tech Stack
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=html,css,typescript,aws,nextjs,react,oracle,postgresql,nodejs,mongodb,cypress,jest))](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Let's dive into it time
+  
+  - Exploring the cons and pros about NoSQL and SQL nowdays and keeping updated about ACID.
+  - Exploring some CMS services like Directus
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Taking a peep at GoLang
+
+ ## 🏆 Achievements
+
+- 🌟 CodeWars - Kyu 125 - October 2024
+
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ghsdevs/)
+
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
 
 <!--
-**gustavohdev/gustavohdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
