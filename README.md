@@ -4,7 +4,7 @@ I am a passionate Software Engineer, that likes a lot taking products from scrat
 If we talk more, I always like to handle data and do some nice structure either to send to the client or send to the frontend,
 But my LOVE ❤️, always lies in creating and showing the architecture 🤓.
 
-![Gustavo's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Gustavo's Stats](https://github-readme-stats.vercel.app/api?username=<gustavohdev>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
