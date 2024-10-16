@@ -2,6 +2,7 @@
 
 I’m a passionate Software Engineer inclined towards building products from the ground up, focusing on creating maintainable, scalable solutions.
 I thrive on handling data—whether it's structuring it for backend services or presenting it to the frontend.
+
 But my LOVE ❤️ always lies in creating and showcasing an architecture 🤓.
 
 <!--  ![Gustavo's Stats](https://github-readme-stats.vercel.app/api?username=gustavohdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
