@@ -1,15 +1,15 @@
 # Hi, I'm Gustavo Avide! 👋
 
-I am a passionate Software Engineer, that likes a lot taking products from scratch, and for that, it means creating maintainable products. 
-If we talk more, I always like to handle data and do some nice structure either to send to the client or send to the frontend,
-But my LOVE ❤️, always lies in creating and showing the architecture 🤓.
+I’m a passionate Software Engineer inclined towards building products from the ground up, focusing on creating maintainable, scalable solutions.
+I thrive on handling data—whether it's structuring it for backend services or presenting it to the frontend.
+But my LOVE ❤️ always lies in creating and showcasing an architecture 🤓.
 
 <!--  ![Gustavo's Stats](https://github-readme-stats.vercel.app/api?username=gustavohdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 ## 🚀 About Me
 
 - 🔭 I'm currently a Full Stack Developer that went to many areas to get better at programming, you can name it: Cars, Real State, HR, Accountability, Payments, Sales... Yes, I'm there using my Software Engineer skills to create, enhance and maintain the systems.
-- 📝 I have a blog that I share some tips about interviews, concepts of programming, novelty in the field and more, you can check it here:
+- 📝 I have a blog that I share some tips that you help you in interviews, concepts of programming, novelty in the field and more, you can check it here:
 [TechBlog](https://www.gustavoavide.com)
 - 🌐 Proud member of [Codewars](https://www.codewars.com/users/gustavohdev), where I dedicate my time getting more Kyu and getting better at logic, sharing cleverness and best practices:
 
