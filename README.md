@@ -8,18 +8,13 @@ But my LOVE ❤️, always lies in creating and showing the architecture 🤓.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently a Full Stack Developer that went to many areas to get better at programming, you can name it: Cars, Real State, HR, Accountability, Payments, Sales... Yes, I'm there using my Software Engineer skills to enhance and maintain the systems.
-- 📝 I have a blog that I share some tips about interviews, concepts of programming, novelty in the field and more, you can check it here
---> [Tech Blog](https://www.gustavoavide.com) <--
-- 🌐 Proud member of CodeWars, where I dedicate my time getting more Kyu and getting better at logic, sharing cleverness and best practices.
---> [Codewars ](https://www.codewars.com/users/gustavohdev) <--
-
-## My Articles
-- Loading...
-
+- 🔭 I'm currently a Full Stack Developer that went to many areas to get better at programming, you can name it: Cars, Real State, HR, Accountability, Payments, Sales... Yes, I'm there using my Software Engineer skills to create, enhance and maintain the systems.
+- 📝 I have a blog that I share some tips about interviews, concepts of programming, novelty in the field and more, you can check it here:
+[TechBlog](https://www.gustavoavide.com)
+- 🌐 Proud member of [Codewars](https://www.codewars.com/users/gustavohdev), where I dedicate my time getting more Kyu and getting better at logic, sharing cleverness and best practices:
 
 ## Tech Stack
-[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=html,css,typescript,aws,nextjs,react,oracle,postgresql,nodejs,mongodb,cypress,jest))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,aws,nextjs,react,oracle,postgresql,nodejs,mongodb,cypress,jest)]
 
 ## 🌱 Currently Exploring
 
