@@ -38,6 +38,10 @@ There's also a _growing love_ into creating and showcasing an architecture.
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
+<div align="right">
+Last Update - October 2024
+</div>
+
 
 
 <!--
