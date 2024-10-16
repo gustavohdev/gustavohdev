@@ -12,7 +12,7 @@ But my ❤️ always lies in creating and showcasing an architecture.
   Yes, I'm there using my Software Engineer skills to create, enhance and maintain systems.
 - 📝 I have a blog that I share some tips that you help you in interviews, concepts of programming, novelty in the field and more, you can check it here:
 [TechBlog](https://www.gustavoavide.com)
-- 🌐 Proud member of [Codewars](https://www.codewars.com/users/gustavohdev), where I dedicate my time getting more Kyu and getting better at logic, sharing cleverness and best practices:
+- 🌐 Proud member of [Codewars](https://www.codewars.com/users/gustavohdev), where I dedicate my time getting more Kyu in order to get better and better at logic, sharing cleverness and best practices.
 
 ## Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,ts,aws,nextjs,react,redux,postgresql,nodejs,mongodb,cypress,jest,webpack,vercel,apple,bash,bootstrap,docker,elasticsearch,express,linux,redis,sqlite,vscode&perline=7)
