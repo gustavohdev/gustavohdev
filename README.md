@@ -6,7 +6,7 @@ But my ❤️ always lies in creating and showcasing an architecture.
 
 <!--  ![Gustavo's Stats](https://github-readme-stats.vercel.app/api?username=gustavohdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
-## 🚀 About Me
+## 🚀 More About Me
 
 - 🔭 I'm currently a Full Stack Developer that went through many areas to get better at programming, you can name it: Cars, Real State, HR, Accountability, Payments, Sales...
   Yes, I'm there using my Software Engineer skills to create, enhance and maintain the systems.
