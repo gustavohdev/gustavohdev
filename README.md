@@ -23,13 +23,14 @@ But my LOVE ❤️, always lies in creating and showing the architecture 🤓.
 
 ## 🌱 Currently Exploring
 
-- 🚀 Let's dive into it time
+- 🚀
   
-  - Exploring the cons and pros about NoSQL and SQL nowdays and keeping updated about ACID.
-  - Exploring some CMS services like Directus
+  - Exploring architechtures in AWS.
+  - Exploring the cons and pros about NoSQL and SQL databases in different fields, always thinking about ACID.
+  - Exploring Directus CMS.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Django, a powerful Python web framework.
-  - Taking a peep at GoLang
+  - Taking a peep at GoLang.
 
  ## 🏆 Achievements
 
