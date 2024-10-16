@@ -14,7 +14,7 @@ But my LOVE ❤️, always lies in creating and showing the architecture 🤓.
 - 🌐 Proud member of [Codewars](https://www.codewars.com/users/gustavohdev), where I dedicate my time getting more Kyu and getting better at logic, sharing cleverness and best practices:
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,aws,nextjs,react,oracle,postgresql,nodejs,mongodb,cypress,jest)]
+![My Skills](https://skillicons.dev/icons?i=html,css,ts,aws,nextjs,react,redux,postgresql,nodejs,mongodb,cypress,jest,webpack,vercel,apple,bash,bootstrap,docker,elasticsearch,express,linux,redis,sqlite,vscode&perline=7)
 
 ## 🌱 Currently Exploring
 
