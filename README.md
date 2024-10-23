@@ -11,7 +11,7 @@ There's also a _growing love_ into creating and showcasing an architecture.
 - 🔭 I'm currently a Full Stack Developer that went through many areas to get better at programming, you can name it: Cars, Real State, HR, Accountability, Payments, Sales...
   Yes, I'm there using my Software Engineer skills to create, enhance and maintain systems.
 - 📝 I have a blog that I share some tips that you help you in interviews, concepts of programming, novelty in the field and more, you can check it here:
-[TechBlog](https://www.gustavoavide.com) <Refactoring>
+[TechBlog](https://www.gustavoavide.com) --> Refactoring <--
 - 🌐 Proud member of [Codewars](https://www.codewars.com/users/gustavohdev), where I dedicate my time getting more Kyu in order to get better and better at logic, therefore sharing cleverness and best practices.
 
 ## Tech Stack
