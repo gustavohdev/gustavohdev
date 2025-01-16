@@ -23,12 +23,17 @@ There's also a _growing love_ into creating and showcasing an architecture.
   - The cons and pros about NoSQL and SQL databases in different fields, always thinking about ACID.
   - Directus CMS.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Taking a peep at GoLang.
+  - ~~Building server-side applications with Django, a powerful Python web framework. ( I will find time )~~
+  - ~~Taking a peep at GoLang. ( I will find time )~~
+  - Coralogix and DataDog
+  - GraphQL
+  - E2E Tests with Playwright
+  - Stripe
+    
 
  ## 🏆 Achievements
 
-- 🌟 CodeWars - Kyu 125 - October 2024
+- 🌟 CodeWars - Kyu 225 - January 2025
 
 
 ## 📬 Get in Touch
@@ -39,7 +44,7 @@ There's also a _growing love_ into creating and showcasing an architecture.
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 <div align="right">
-<em>Last Update - October 2024</em>
+<em>Last Update - January 2025</em>
 </div>
 
 
