@@ -1,6 +1,6 @@
 # Hi, I'm Gustavo Avide! 👋
 
-I’m a passionate Software Engineer inclined towards building products from the ground up, focusing on creating maintainable and scalable solutions.
+A passionate Software Engineer inclined towards building products from the ground up, focusing on creating maintainable and scalable solutions.
 I thrive on handling data—whether it's structuring it for backend services or presenting it to the frontend.  
 There's also a _growing love_ into creating and showcasing an architecture.
 
@@ -8,7 +8,7 @@ There's also a _growing love_ into creating and showcasing an architecture.
 
 ## 🚀 More About Me
 
-- 🔭 I'm currently a Full Stack Developer that went through many areas to get better at programming, you can name it: Cars, Real State, HR, Accountability, Payments, Sales...
+- 🔭 A Full Stack Developer who's explored all kinds of industries to level up in programming—cars, real estate, HR, accounting, payments, sales... you name it...
   Yes, I'm there using my Software Engineer skills to create, enhance and maintain systems.
 - 📝 I have a blog that I share some tips that you help you in interviews, concepts of programming, novelty in the field and more, you can check it here:
 [TechBlog](https://www.gustavoavide.com) --> Refactoring <--
@@ -19,21 +19,22 @@ There's also a _growing love_ into creating and showcasing an architecture.
 
 ## 🌱 Currently Exploring
 
-  - Architechtures in AWS.
-  - The cons and pros about NoSQL and SQL databases in different fields, always thinking about ACID.
-  - Directus CMS.
+  - Architechtures in AWS
+  - The cons and pros about NoSQL and SQL databases in different areas
+  - Directus CMS
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - ~~Building server-side applications with Django, a powerful Python web framework. ( I will find time )~~
-  - ~~Taking a peep at GoLang. ( I will find time )~~
-  - Coralogix and DataDog
   - GraphQL
   - E2E Tests with Playwright
-  - Stripe
+  - PWA
+  - ~~Building server-side applications with Django, a powerful Python web framework. ( I will find time )~~
+  - ~~Taking a peep at GoLang. ( I will find time )~~
+  - ~~Coralogix and DataDog~~
+  - ~~Stripe~~
     
 
  ## 🏆 Achievements
 
-- 🌟 CodeWars - Kyu 225 - January 2025
+- 🌟 CodeWars - Kyu Score: 241
 
 
 ## 📬 Get in Touch
@@ -44,7 +45,7 @@ There's also a _growing love_ into creating and showcasing an architecture.
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 <div align="right">
-<em>Last Update - January 2025</em>
+<em>Last Update - April 2025</em>
 </div>
 
 
